@@ -18,6 +18,7 @@ interface UserSocialAccount {
      * 
      * @param string $provider Provider name as requested from oauth e.g. facebook
      * @param User $socialUser user by provider
+     * @param bool $autoRegistration
      */
-    public static function findForPassportSocialite($provider,User $socialUser);
+    public static function findForPassportSocialite($provider,User $socialUser, $autoRegistration = true);
 }
