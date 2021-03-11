@@ -1,5 +1,5 @@
 {
-  "name": "larva/laravel-passport-socialite",
+  "name": "moova/laravel-passport-socialite",
   "description": "This is a Laravel passport grant for social.",
   "keywords": [ "passport", "laravel", "social" ],
   "type": "library",
