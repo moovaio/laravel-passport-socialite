@@ -7,7 +7,7 @@
   "require": {
     "laravel/passport": "^12.0",
     "laravel/socialite": "^5.20",
-    "illuminate/support": "^12.1",
+    "illuminate/support": "^12.0",
     "league/oauth2-server": "^8.0 || ^8.3 || ^9.2"
   },
   "autoload": {
